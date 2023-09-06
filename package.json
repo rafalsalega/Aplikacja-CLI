@@ -1,0 +1,16 @@
+{
+  "name": "aplikacja-cli",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
